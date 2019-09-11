@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleListviewDirectory</string>
+    <string name="album_name">DailySelfie/</string>    
+    <string name="show_image_activity_label">Image/</string>    
+</resources>
